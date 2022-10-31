@@ -33,7 +33,7 @@ export default defineConfig({
       children: [
         {
           title: 'CSDN',
-          path: 'https://github.com/YxSimon?tab=repositories',
+          path: 'https://blog.csdn.net/Yx0629?spm=1001.2101.3001.5343',
         },
         
       ],
